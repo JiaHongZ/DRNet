@@ -58,6 +58,11 @@ We condensed Possion and Salt & Pepper denoising test files into two files to re
 To test the results of real denoising, you can run Submit.py to generate the result file,
 SubmitSrgb.mat and submit it to http://130.63.97.225/sidd/benchmark_submit.php.
 
+Pre-trained model:
+-----------
+Link：https://pan.baidu.com/s/1_FukDfK86-7jhzhphPN7MA 
+Keyword：r11u
+
 Directory structure
 ----------
 - model_zoo (there are some pretrained model in the papar)
