@@ -1,6 +1,7 @@
 # DRNet
 This code is a implement of the paper "DRNet: A Deep Neuron Network With Multi-layer Residual Blocks Improves Image Denoising". 
-Modified by https://github.com/cszn/KAIR.
+
+This code is modified by https://github.com/cszn/KAIR.
 
 Datasets:
 -----------
