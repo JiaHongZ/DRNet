@@ -74,4 +74,10 @@ Directory structure
 - trainsets
 - utils
 
-
+------------
+If you meet this bug, please make sure that you are not running the code in Pycharm's test environment:
+E:\soft2\anaconda\envs\pytorchgpu37\python.exe E:\PyCharm2020.1\plugins\python\helpers\pycharm\_jb_nosetest_runner.py --target test_DiehlAndCook2015.py::test
+Traceback (most recent call last):
+  File "E:\PyCharm2020.1\plugins\python\helpers\pycharm\_jb_nosetest_runner.py", line 4, in <module>
+    import nose
+ModuleNotFoundError: No module named 'nose'
