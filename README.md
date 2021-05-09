@@ -75,6 +75,7 @@ Directory structure
 - utils
 -----------
 For more details， please read the Code Operation Guide.
+
 ------------
 If you meet this bug, please make sure that you are not running the code in Pycharm's test environment:
 E:\soft2\anaconda\envs\pytorchgpu37\python.exe E:\PyCharm2020.1\plugins\python\helpers\pycharm\_jb_nosetest_runner.py --target test_DiehlAndCook2015.py::test
